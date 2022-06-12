@@ -25,7 +25,7 @@
   margin: 50px auto;
   background: #fff;
   border-radius: 5px;
-  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.274);
 }
 .widget .cover {
   height: 160px;
@@ -68,17 +68,12 @@
 }
 .widget ul {
   position: absolute;
-  top: 20px;
+  top: -17px;
   padding: 0;
   background: #2cdfd3;
 }
-.widget ul.position-left {
-  left: -26px;
-}
-.widget ul.position-right {
-  right: -27px;
-}
 .widget ul li {
+  height: 40px;
   list-style: none;
 }
 .widget ul li a {

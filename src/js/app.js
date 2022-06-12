@@ -54,7 +54,8 @@ window.onload = function() {
     // if includeCover is true the algorithm should
     includeCover: true,
     // this is the url of the image that will used as background for the profile cover
-    background: "https://images.unsplash.com/photo-1511974035430-5de47d3b95da",
+    background:
+      "https://media.istockphoto.com/vectors/abstract-blue-background-triangle-overlay-vector-id1170932828?b=1&k=6&m=1170932828&s=170667a&w=0&h=Lv9LS4bHoCKSfJfSB4Jozz4O3nBUTUoLkA-9LavIKRE=",
     // this is the url for the profile avatar
     avatarURL: "https://avatars.githubusercontent.com/u/80134414?v=4",
     // social media bar position (left or right)
